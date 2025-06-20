@@ -4,6 +4,7 @@
 
 This is one of my data analytics projects in R, focusing on **space analytics**.  
 Specifically, this project investigates the **Challenger Space Shuttle disaster** using the **O-Rings dataset**. The goal is to explore the relationship between **launch temperature** and **O-ring failure incidents** through **data analysis** and **regression modeling**.
+In the R script, you will find annnotation of the code and its explanation of my thought process.
 
 ---
 
@@ -18,7 +19,7 @@ Specifically, this project investigates the **Challenger Space Shuttle disaster*
 ### Tools & Methods
 
 - Language: `R`
-- Packages: `ggplot2`, `dplyr`, `readr`, `stats`
+- Packages: 'ROCR'
 - Techniques:
   - Data cleaning & EDA
   - Scatter plots
