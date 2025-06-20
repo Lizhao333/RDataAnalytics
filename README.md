@@ -29,12 +29,12 @@ In the R script, you will find annnotation of the code and its explanation of my
 
 
 
-### 📚 References
+### References
 
 - Tufte, Edward. *Visual Explanations*
 - [Wikipedia: Space Shuttle Challenger disaster](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster)
 
-### 👤 Author
+### Author
 
 **Lin Lizhao**  
 Singapore University of Technology and Design (SUTD)  
