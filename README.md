@@ -21,7 +21,7 @@ In the R script, you will find annnotation of the code and its explanation of my
 - Language: `R`
 - Packages: 'ROCR'
 - Techniques:
-  - Data cleaning & EDA
+  - Data cleaning 
   - Scatter plots
   - Linear regression
   - Logistic regression
