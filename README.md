@@ -1,2 +1,40 @@
-### My working on one of the R data analytics Project, Space analytics.
-### This project uses R to analyze the famous O-Rings data from the Challenger space shuttle disaster. The goal is to explore the relationship between **temperature** and **O-ring failure incidents** using **data analytics** and **regression modeling**.
+# Space Analytics: O-Rings Failure Analysis (R Project)
+
+### Project Overview
+
+This is one of my data analytics projects in R, focusing on **space analytics**.  
+Specifically, this project investigates the **Challenger Space Shuttle disaster** using the **O-Rings dataset**. The goal is to explore the relationship between **launch temperature** and **O-ring failure incidents** through **data analysis** and **regression modeling**.
+
+---
+
+###  Objective
+
+- Investigate whether lower temperatures increased the risk of O-ring damage.
+- Apply **linear** and **logistic regression** to model this relationship.
+- Use **data visualization** to support conclusions.
+
+---
+
+### Tools & Methods
+
+- Language: `R`
+- Packages: `ggplot2`, `dplyr`, `readr`, `stats`
+- Techniques:
+  - Data cleaning & EDA
+  - Scatter plots
+  - Linear regression
+  - Logistic regression
+  - Model interpretation
+
+
+
+### 📚 References
+
+- Tufte, Edward. *Visual Explanations*
+- [Wikipedia: Space Shuttle Challenger disaster](https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster)
+
+### 👤 Author
+
+**Lin Lizhao**  
+Singapore University of Technology and Design (SUTD)  
+Engineering Systems and Design (ESD)
