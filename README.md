@@ -33,13 +33,6 @@ Kindly run the R script in R studio, and run read.csv("Orings.csv") to see the p
 
 ---
 
-### 2. Logistic Regression Fit
-
-The logistic curve illustrates how probability of failure increases as temperature drops.
-
-![Logistic Fit](plots/logistic_fit.png)
-
-
 ### References
 
 - Tufte, Edward. *Visual Explanations*
