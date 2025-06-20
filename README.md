@@ -27,6 +27,17 @@ In the R script, you will find annnotation of the code and its explanation of my
   - Logistic regression
   - Model interpretation
 
+## Data Visualization
+The plots is best viewed with the matrix tables to paint a full context.
+Kindly run the R script in R studio, and run read.csv("Orings.csv") to see the plots and matrix tables
+
+---
+
+### 2. Logistic Regression Fit
+
+The logistic curve illustrates how probability of failure increases as temperature drops.
+
+![Logistic Fit](plots/logistic_fit.png)
 
 
 ### References
